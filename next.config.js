@@ -6,6 +6,6 @@ module.exports ={
             'platform-lookaside.fbsbx.com', //where FB stores their pictures
             'firebasestorage.googleapis.com',
 
-        ]
-    }
-}
+        ],
+    },
+};
